@@ -1,0 +1,3 @@
+select avg(rate),category from items where category like "south indian";
+
+select count(category),category f
